@@ -1,0 +1,67 @@
+{
+  "benchmark": "HF_Leaderboard_Lab_Results",
+  "project": "L_PRAISON",
+  "tier": "TIER_4_INFERENCE_AGENTS",
+  "slug": "MervinPraison/PraisonAI",
+  "commit": "d9453cb8e33b",
+  "run_timestamp": "2026-09-30T15:07:07.146295+00:00",
+  "isolation": {
+    "environment": "local",
+    "model": "distilbert-base-uncased",
+    "hf_model_load_time_sec": 4.42,
+    "platform": "win32",
+    "python": "3.12.10"
+  },
+  "results": {
+    "framework": "HuggingFace Open LLM Leaderboard (proxy via distilbert-base-uncased)",
+    "source": "https://huggingface.co/docs/leaderboards/en/open_llm_leaderboard/archive",
+    "model_used": "distilbert-base-uncased",
+    "note": "Full MMLU/HellaSwag/TruthfulQA/ARC/Winogrande/GSM8K require GPU. Proxy: inference latency.",
+    "samples_run": 5,
+    "latency_ms": {
+      "avg": 57.98,
+      "min": 43.67,
+      "max": 93.01,
+      "all": [
+        93.01,
+        53.12,
+        43.67,
+        49.51,
+        50.57
+      ]
+    },
+    "status": "PASS",
+    "tokenization": {
+      "model": "distilbert-base-uncased",
+      "input_text": "L_PRAISON (MervinPraison/PraisonAI) \u2014 6715 files, 975404 source lines, licence MIT, primary language ['Python']",
+      "token_count": 41,
+      "tokens_preview": [
+        "[CLS]",
+        "l",
+        "_",
+        "pr",
+        "##ais",
+        "##on",
+        "(",
+        "mer",
+        "##vin",
+        "##pr",
+        "##ais",
+        "##on",
+        "/",
+        "pr",
+        "##ais",
+        "##ona",
+        "##i",
+        ")",
+        "\u2014",
+        "67"
+      ],
+      "tokenization_latency_ms": 0.51,
+      "classification_label": "LABEL_0",
+      "classification_score": 0.5846,
+      "classification_latency_ms": 61.01,
+      "status": "PASS"
+    }
+  }
+}

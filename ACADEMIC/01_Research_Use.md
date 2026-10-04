@@ -1,0 +1,30 @@
+# how to cite and what may be claimed
+
+**Project:** `L_PRAISON`  
+**Tier:** TIER_4_INFERENCE_AGENTS  
+**Identity:** Upstream `MervinPraison/PraisonAI` @ `d9453cb8e33b` (MIT)
+
+## Purpose
+
+Citations, datasets, method, and defensible research use.
+
+## This project
+
+| Fact | Value |
+| --- | --- |
+| Upstream | `MervinPraison/PraisonAI` |
+| Commit | `d9453cb8e33b40665a3693c1a6ed807adacf24e3` |
+| Upstream licence | MIT |
+| Licence class | permissive |
+| Clone size | 91.35 MB |
+| Ledger | 0 blocks, chain verified |
+| Current TRL | NOT YET MEASURED |
+| Post-optimisation TRL | NOT YET MEASURED |
+| II budget cap | 1000.0 IIU |
+| Verified upstream edits | 1 |
+
+## Known gaps
+
+Everything above is read from an artifact. Where this document says
+`NOT YET MEASURED`, the value has not been measured for `L_PRAISON` as of
+generation. Filling those in requires a run or a decision, not editing.

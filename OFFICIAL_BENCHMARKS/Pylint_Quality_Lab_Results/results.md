@@ -1,0 +1,34 @@
+# Pylint_Quality_Lab_Results
+**Project:** `L_PRAISON` | **Status:** `PASS` | **Run:** `2026-09-30T17:14:20.030944+00:00`
+
+**Framework:** [Pylint — Python Code Quality Analyzer](https://pylint.readthedocs.io/)
+
+## Key Metrics
+
+- **files_analyzed:** `5`
+- **pylint_score:** `7.22`
+- **pylint_score_max:** `10.0`
+
+## Raw Output (first 50 lines)
+```
+************* Module examples.agent_centric_api
+TIER_4_INFERENCE_AGENTS\L_PRAISON\UPSTREAM\examples\agent_centric_api.py:35:0: C0303: Trailing whitespace (trailing-whitespace)
+TIER_4_INFERENCE_AGENTS\L_PRAISON\UPSTREAM\examples\agent_centric_api.py:50:0: C0303: Trailing whitespace (trailing-whitespace)
+TIER_4_INFERENCE_AGENTS\L_PRAISON\UPSTREAM\examples\agent_centric_api.py:77:0: C0303: Trailing whitespace (trailing-whitespace)
+TIER_4_INFERENCE_AGENTS\L_PRAISON\UPSTREAM\examples\agent_centric_api.py:83:0: C0303: Trailing whitespace (trailing-whitespace)
+TIER_4_INFERENCE_AGENTS\L_PRAISON\UPSTREAM\examples\agent_centric_api.py:89:0: C0303: Trailing whitespace (trailing-whitespace)
+TIER_4_INFERENCE_AGENTS\L_PRAISON\UPSTREAM\examples\agent_centric_api.py:105:0: C0303: Trailing whitespace (trailing-whitespace)
+TIER_4_INFERENCE_AGENTS\L_PRAISON\UPSTREAM\examples\agent_centric_api.py:121:0: C0303: Trailing whitespace (trailing-whitespace)
+TIER_4_INFERENCE_AGENTS\L_PRAISON\UPSTREAM\examples\agent_centric_api.py:135:0: C0303: Trailing whitespace (trailing-whitespace)
+TIER_4_INFERENCE_AGENTS\L_PRAISON\UPSTREAM\examples\agent_centric_api.py:141:0: C0303: Trailing whitespace (trailing-whitespace)
+TIER_4_INFERENCE_AGENTS\L_PRAISON\UPSTREAM\examples\agent_centric_api.py:149:0: C0303: Trailing whitespace (trailing-whitespace)
+TIER_4_INFERENCE_AGENTS\L_PRAISON\UPSTREAM\examples\agent_centric_api.py:165:0: C0303: Trailing whitespace (trailing-whitespace)
+TIER_4_INFERENCE_AGENTS\L_PRAISON\UPSTREAM\examples\agent_centric_api.py:179:0: C0303: Trailing whitespace (trailing-whitespace)
+TIER_4_INFERENCE_AGENTS\L_PRAISON\UPSTREAM\examples\agent_centric_api.py:187:0: C0303: Trailing whitespace (trailing-whitespace)
+TIER_4_INFERENCE_AGENTS\L_PRAISON\UPSTREAM\examples\agent_centric_api.py:199:0: C0303: Trailing whitespace (trailing-whitespace)
+TIER_4_INFERENCE_AGENTS\L_PRAISON\UPSTREAM\examples\agent_centric_api.py:206:0: C0303: Trailing whitespace (trailing-whitespace)
+TIER_4_INFERENCE_AGENT
+```
+
+---
+_Anticloud Independent Benchmark — 2026-09-30T17:14:20.030944+00:00_

@@ -1,0 +1,27 @@
+{
+  "benchmark": "CLOC_Lab_Results",
+  "project": "L_PRAISON",
+  "run_timestamp": "2026-09-30T17:14:20.030944+00:00",
+  "source": "https://github.com/AlDanial/cloc",
+  "results": {
+    "framework": "CLOC \u2014 Count Lines of Code (via project_facts.json)",
+    "source": "https://github.com/AlDanial/cloc",
+    "total_files": 6715,
+    "total_source_lines": 975404,
+    "languages": {
+      "Python": 4820,
+      "TypeScript": 846,
+      "Rust": 102,
+      "Shell": 34,
+      "JavaScript": 29,
+      "Kotlin": 5,
+      "PowerShell": 2,
+      "C/C++ header": 1,
+      "Ruby": 1
+    },
+    "primary_language": "Python",
+    "language_count": 9,
+    "lines_per_file": 145.3,
+    "status": "PASS"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "benchmark": "Radon_Complexity_Lab_Results",
+  "project": "L_PRAISON",
+  "run_timestamp": "2026-09-30T17:14:20.030944+00:00",
+  "source": "https://radon.readthedocs.io/",
+  "results": {
+    "framework": "Radon \u2014 Cyclomatic Complexity & Maintainability Index",
+    "source": "https://radon.readthedocs.io/",
+    "files_analyzed": 10,
+    "average_complexity": {
+      "grade": "A",
+      "score": 2.638888888888889
+    },
+    "complexity_grade": "A",
+    "complexity_score": 2.638888888888889,
+    "status": "PASS",
+    "raw_output": "E:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\L_PRAISON\\UPSTREAM\\examples\\agent_centric_api.py\n    F 32:0 example_simple_enable - A (1)\n    F 47:0 example_with_config - A (1)\n    F 74:0 example_guardrails - A (1)\n    F 102:0 example_planning - A (1)\n    F 118:0 example_backward_compatible - A (1)\n    F 132:0 example_real_chat - A (1)\n    F 146:0 example_string_presets - A (1)\n    F 162:0 example_array_overrides - A (1)\n    F 176:0 example_url_parsing - A (1)\n    F 196:0 example_knowledge_sources - A (1)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\L_PRAISON\\UPSTREAM\\examples\\endpoints_example.py\n    F 45:0 list_endpoints - A (3)\n    F 136:0 main - A (3)\n    F 34:0 check_server_health - A (2)\n    F 64:0 describe_endpoint - A (2)\n    F 83:0 invoke_endpoint_cli - A (2)\n    F 107:0 invoke_endpoint_http - A (2)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\L_PRAISON\\UPSTREAM\\examples\\guardrail_example_fixed.py\n    F 13:0 validate_length_guardrailresult - A (3)\n    F 33:0 validate_length_tuple - A (3)\n    F 44:0 get_url_context - A (3)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\L_PRAISON\\UPSTREAM\\examples\\recipe_output_modes.py\n    F 24:0 example_silent_mode - A (1)\n    F 35:0 example_status_mode - A (1)\n    F 47:0 example_trace_mode - A (1)\n    F 59:0 example_verbose_mode - A (1)\n    F 70:0 example_backward_compat - A (1)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\L_PRAISON\\UPSTREAM\\examples\\run_all_examples.py\n    F 38",
+    "mi_output": "E:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\L_PRAISON\\UPSTREAM\\examples\\agent_centric_api.py - A (67.79)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\L_PRAISON\\UPSTREAM\\examples\\endpoints_example.py - A (63.91)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\L_PRAISON\\UPSTREAM\\examples\\guardrail_example_fixed.py - A (79.22)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_4_INFERENCE_AGENTS\\L_PRAISON\\UPSTREAM\\examples\\recipe_output_modes.py - A (88.95)\nE:\\fenta\\Downloads\\T"
+  }
+}
